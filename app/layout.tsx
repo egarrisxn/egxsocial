@@ -51,9 +51,6 @@ export const metadata: Metadata = {
       },
     ],
   },
-  icons: {
-    shortcut: "https://egxsocial.vercel.app/favicon.ico",
-  },
 };
 
 export default function RootLayout({
