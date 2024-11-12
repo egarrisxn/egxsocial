@@ -2,9 +2,9 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "egxprod",
-    short_name: "prod",
-    description: "The All-In-One Productivity App!",
+    name: "egxsocial",
+    short_name: "egxsoc",
+    description: "A Social Thin.!",
     display: "standalone",
     background_color: "#eaeaea",
     theme_color: "#eaeaea",

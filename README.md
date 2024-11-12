@@ -1,6 +1,6 @@
-# eg-social
+# egxsocial
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/eg-social) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/eg-social)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/egxsocial) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/egxsocial)
 
 ## Table of Contents
 
@@ -45,13 +45,13 @@ To get a local copy up and running, follow these simple steps.
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/eg-social.git
+   git clone https://github.com/yourusername/egxsocial.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd eg-social
+   cd egxsocial
    ```
 
 3. Install dependencies:
