@@ -44,12 +44,15 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: `https://egxsocial.vercel.app/opengraph-image.png`,
+        url: "https://egxsocial.vercel.app/opengraph-image.png",
         width: 1200,
         height: 630,
         alt: "egxsocial-og-image",
       },
     ],
+  },
+  icons: {
+    shortcut: "https://egxsocial.vercel.app/icon.ico",
   },
 };
 
